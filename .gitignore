@@ -2,4 +2,4 @@ js/
 materialize/
 node_modules/
 css/
-dist/
+dist/main.js
