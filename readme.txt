@@ -1,6 +1,6 @@
 Thanks for downloading this theme!
 
-Theme Name: Knight
-Theme URL: https://bootstrapmade.com/knight-free-bootstrap-theme/
+Theme Name: Amoeba
+Theme URL: https://bootstrapmade.com/free-one-page-bootstrap-template-amoeba/
 Author: BootstrapMade
 Author URL: https://bootstrapmade.com
